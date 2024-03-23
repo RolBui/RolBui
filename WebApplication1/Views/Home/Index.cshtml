@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebApplication1.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_HomePage.cshtml";
+}
+
+<div class="col-md-12">
+	<div class="row">
+		<div class="products-tabs">
+			<!-- tab -->
+			<div id="tab1" class="tab-pane active">
+				<div class="products-slick slick-initialized slick-slider" >
+					
+					<div class="slick-list draggable">
+						<div class="slick-track">	
+
+							@foreach (var item in Model)
+							{
+							<div class="product slick-slide slick-cloned " tabindex="-1" style="width: 345px;" data-slick-index="5" aria-hidden="false">
+								<div class="product-img">
+									<img src="@item.ProductImage" alt="">
+									<div class="product-label">
+										<span class="sale">-30%</span>
+										<span class="new">NEW</span>
+									</div>
+								</div>
+								<div class="product-body">
+									<p class="product-category">@item.Category.CategoryName</p>
+										<h3 class="product-name"><a href="~/Products/ProductDetails?id=@item.ProductId">@item.ProductName" tabindex="0">@item.ProductName</a></h3>
+										<h4 class="product-price">$@item.ProductPrice</h4>
+									<div class="product-rating">
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+									</div>
+									<div class="product-btns">
+										<button class="add-to-wishlist" tabindex="0"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+										<button class="add-to-compare" tabindex="0"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+										<button class="quick-view" tabindex="0"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+									</div>
+								</div>
+								<div class="add-to-cart">
+									<button class="add-to-cart-btn" tabindex="0"><i class="fa fa-shopping-cart"></i> add to cart</button>
+								</div>
+							</div>
+						  }
+						</div>
+					</div>
+				</div>
+				<div id="slick-nav-1" class="products-slick-nav"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: inline-block;">Previous</button><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: inline-block;">Next</button></div>
+			</div>
+			<!-- /tab -->
+		</div>
+	</div>
+</div>
+

@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\4Menbers.png",
+      "PackagePath": "staticwebassets\\img\\4Menbers.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\bonsai.png",
+      "PackagePath": "staticwebassets\\img\\bonsai.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\bucep-marble.png",
+      "PackagePath": "staticwebassets\\img\\bucep-marble.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\co-dau-nanh.png",
+      "PackagePath": "staticwebassets\\img\\co-dau-nanh.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\den.webp",
+      "PackagePath": "staticwebassets\\img\\den.webp"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\den7.jpg",
+      "PackagePath": "staticwebassets\\img\\den7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\duong-xi-java-gia-the.png",
+      "PackagePath": "staticwebassets\\img\\duong-xi-java-gia-the.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\duong-xi-la-hep.png",
+      "PackagePath": "staticwebassets\\img\\duong-xi-la-hep.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\ho-thuy-sinh-nature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\ho-thuy-sinh-nature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\hong-ba-tieu.png",
+      "PackagePath": "staticwebassets\\img\\hong-ba-tieu.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\lan-nuoc.png",
+      "PackagePath": "staticwebassets\\img\\lan-nuoc.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\logo123.jpg",
+      "PackagePath": "staticwebassets\\img\\logo123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\mayloc",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\mayloc2.jpg",
+      "PackagePath": "staticwebassets\\img\\mayloc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\mayloc3.jpg",
+      "PackagePath": "staticwebassets\\img\\mayloc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\mayloc4.jpg",
+      "PackagePath": "staticwebassets\\img\\mayloc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\mayloc6.jpg",
+      "PackagePath": "staticwebassets\\img\\mayloc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\r.jpg",
+      "PackagePath": "staticwebassets\\img\\r.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\ray-la-tron.png",
+      "PackagePath": "staticwebassets\\img\\ray-la-tron.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\ray-var.png",
+      "PackagePath": "staticwebassets\\img\\ray-var.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\thucan.webp",
+      "PackagePath": "staticwebassets\\img\\thucan.webp"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\thucan4.jpg",
+      "PackagePath": "staticwebassets\\img\\thucan4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\tieu-thao-nurii.png",
+      "PackagePath": "staticwebassets\\img\\tieu-thao-nurii.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\tieu-thao-tiger.png",
+      "PackagePath": "staticwebassets\\img\\tieu-thao-tiger.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\tran-chau-nhat.png",
+      "PackagePath": "staticwebassets\\img\\tran-chau-nhat.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\img\\trau-aflame.png",
+      "PackagePath": "staticwebassets\\img\\trau-aflame.png"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Thanh Nhan\\OneDrive\\Máy tính\\DoAn\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

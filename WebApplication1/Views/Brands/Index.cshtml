@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebApplication1.Models.Brand>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Brand</h1>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="w3-container">
+
+    <table class="w3-table-all w3-hoverable">
+        <thead>
+
+            <tr class="w3-light-grey">
+                <th>@Html.DisplayNameFor(model => model.BrandName)</th>
+                <th>@Html.DisplayNameFor(model => model.BrandDescription)</th>
+                <th>@Html.DisplayNameFor(model => model.BrandOrder)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+        <tr>
+                <td>@Html.DisplayFor(modelItem => item.BrandName)</td>
+                <td>@Html.DisplayFor(modelItem => item.BrandDescription)</td>
+                <td>@Html.DisplayFor(modelItem => item.BrandOrder)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BrandId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BrandId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BrandId">Delete</a>
+                </td>
+        </tr>
+        }
+       
+    </table>
+</div>
